@@ -1,3 +1,10 @@
+janitza-firmware (20150624-1) unstable; urgency=medium
+
+  * [f6ff559] Imported Upstream version 20150624
+  * [9cd75c3] remove umg507 from installation list
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Wed, 24 Jun 2015 23:11:10 +0200
+
 janitza-firmware (20150307-1) unstable; urgency=medium
 
   * [b6028d2] Imported Upstream version 20150307
