@@ -1,0 +1,213 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: SNMP/MIB
+Upstream-Contact: Janitza electronics GmbH <info@janitza.de>
+Download: http://www.janitza.de/downloads/gridvis-download/
+Disclaimer: Standard Terms and Conditions of Contract of Janitza Electronics
+ GmbH for the Provision of Software Free of Charge
+ .
+ § 1 Applicability of the Terms and Conditions of Contract
+ (1) Unless otherwise agreed, exclusively these Standard Terms and Conditions of Contract apply for
+     the provision of software free of charge to the user by Janitza Electronics GmbH, business domicile
+     Vor dem Polstück 1, 35663 Lahnau (hereinafter called "JANITZA"). Deviating terms and conditions of
+     contract of the user shall not form an integral part of the contract, even if JANITZA does not expressly
+     contradict the same.
+ (2) Even if no reference is made to them once more upon the conclusion of similar contracts,exclusively
+     the Standard Terms and Conditions of Contract of Janitza Electronics GmbH for the
+     Provision of Software Free of Charge shall apply in the version applicable when the user made his
+     declaration (retrievable under www.janitza.de) unless the parties expressly agree otherwise in writing.
+ (3) Supplemental hereto, the statutory provisions apply; for this provision of software free of charge, in
+     particular §516 et seq. German Civil Code [Bürgerliches Gesetzbuch] BGB (gift)
+ .
+ § 2 Conclusion of the contract
+ (1) The contract is concluded in such manner that JANITZA, at the request of the user for the provision
+     of the software free of charge, sends him an e-mail in confirmation and subsequently does actually
+     provide the user with the free software (including the pertinent data carrier, in so far as available).
+ (2) Both parties are in agreement that the provision / gratuitous transfer of the software (and of the
+     pertinent data carrier, in so far as relevant) is made free of charge.
+ (3) A binding contract is not formed until the software is actually provided (in accordance with § 518 (1)
+     German Civil Code (BGB), a promise of a gift needs to be recorded before a notary; this deficiency in
+     form is only cured through the actual transfer, § 518 (2) BGB).
+ (4) For other types of deliveries and services (e.g. delivery of hardware, software support, set-up and
+     installation of software, training sessions) separate contracts are to be concluded.
+ .
+ § 3 Object of the contract; Scope of performance
+ (1) The object of these Terms and Conditions of Contract is the provision of software free of charge
+     (including the pertinent data carrier, in so far as available) to the user and the grant of the rights of use
+     in accordance with § 4.
+ (2) The free software (including the pertinent data carrier, in so far as available) is transferred in the
+     status in which it is available to JANITZA at the point in time of the transfer ("as is").
+ (3) Prior to the conclusion of the contract, the user shall verify that the specifications of the software
+     conform with his wishes and requirements. He is familiar with the essential functional features and
+     conditions of the software corresponding to the product description of JANITZA.
+ (4) According to the current state of technology, it is not possible to prepare software programmes
+     which work without faults in all cases of application. Product descriptions, illustrations, test
+     programmes etc. are therefore general performance specifications, but do not constitute any
+     guarantees. A guarantee requires a written declaration by the management of JANITZA.
+ (5) The user will receive the software consisting of the machine programme and, in so far as available
+     for the relevant software, a user manual in the form of a file. The method of the delivery of the software
+     shall be determined by the agreements; in the absence of any other agreement, the programme and
+     user manual will be delivered on a USB stick by post. The user has no claim to be provided with the
+     source programme.
+ .
+ § 4 Rights of the user to the software
+ (1) The software provided free of charge (programme and user manual) is legally protected. The
+     copyright, patent rights, trademark rights and all other ancillary copyrights in the software, as well as
+     all other items which JANITZA provides or makes available to the user within the framework of the
+     contractual negotiations and performance of the contract shall, in the relationship of the parties
+     interse, remain the sole property of JANITZA. Where such rights are held by third parties, JANITZA has the
+      corresponding rights of use and exploitation.
+ (2) The user shall only be entitled to process his own data himself and in his own operations and for
+     his own purposes using the programme. All data processing equipment (e.g. hard disks and central
+     processing units) on which the programmes are copied or transferred, either in whole or in part, either
+     temporarily or permanently, must be located in the premises of the user and be in his direct
+     possession. Further contractual provisions governing use (e.g. the limitation to a number of
+     workplaces or persons) are to be implemented in technical terms and complied with in practice.
+     JANITZA hereby grants the user the powers necessary for this use as a simple right of use, including
+     the right to rectify faults. § 10 applies in respect of the period of the right of use.
+ (3) The user may prepare such backup copies of the programmes, as are necessary for his safe
+     operations. The backup copies must be safely stored and, in so far as technically feasible, labelled
+     with the copyright notice of the original data carrier. Copyright notices may not be deleted, altered or
+     suppressed. Copies which are no longer required must be deleted or destroyed. The user manual and
+     other documents provided by JANITZA may only be copied for internal business purposes.
+ (4) The user shall only be entitled to pass on the software or parts thereof free of charge to third
+     parties in accordance with the following provisions and after carrying out the following procedures:
+   a) Only one original data carrier may be passed on. Other software or software in another
+      version may not be passed on.
+   b) The user must delete all other copies of the software (irrespective of the version), in
+      particular on data carriers and on solid state memories or random access memories (RAM).
+      He shall relinquish the use of the same. He undertakes to carry out these procedures prior to
+      passing on the original data carrier to third parties and to confirm this to JANITZA in writing
+      without delay.
+   c) The transfer to third parties is permanent, that is to say without any claim for return or any
+      option of repurchase.
+   d) The third party must give a written declaration to JANITZA that it will comply with § 4, § 10
+      (2) and (3), § 11 and § 12 of these Standard Terms and Conditions of Contract directly vis-à-
+      vis JANITZA.
+   e) The written consent of JANITZA has been received. JANITZA shall be obliged to grant
+      consent unless compelling reasons preclude the same (e.g. protection from competition).
+     In the event of any breach of these provisions by the user, JANITZA reserves the right to claim
+     damages.
+ .
+ (5) The provisions under paras. (2), (3) and (4 d), (e) also apply where the user eliminates the fault or
+     (in so far as admissible) carries out any other modification of the programmes or uses the software for
+     training purposes.
+ (6) The user may only decompile the interface information of the programmes within the limits defined
+     by § 69 e German Copyright Act [Urheberrechtsgesetz] (UrhG), and then only after informing JANITZA
+     in writing of his intent together with a request for the necessary information to be provided within a
+     period of at least two weeks. § 11 shall apply to all knowledge and information which the user may
+     obtain in relation to the software during the decompiling process. Each time before involving third
+     parties, the user shall provide JANITZA with a written declaration from the third party that the latter
+     undertakes directly vis-à-vis JANITZA to comply with the provisions laid down in §§ 4 and 11.
+ (7) No other forms of exploitation, in particular the sale, leasing, rental or distribution in tangible or
+     intangible form, the use of the software by and for third parties (e.g. outsourcing, computer centre
+     operations, application service providing) are permitted without the prior written consent of JANITZA.
+ (8) Objects of the contract, documents, suggestions, test programmes etc. from JANITZA which
+     become available to the user either before or following the conclusion of the contract are deemed to
+     be intellectual property and business and company secrets of JANITZA. They may not be used in any
+     manner without the written permission of JANITZA and must be kept confidential in accordance with §11.
+ .
+ § 5 Place of performance
+  The place of performance for all performances under and in connection with this contract shall be the
+  location of the head office of JANITZA.
+ .
+ § 6 Duties of the user
+ (1) The user shall be obliged to test the programme thoroughly as to its usability in the specific
+     situation before commencing any productive use.
+ (2) The user shall be obliged to take reasonable precautions (e.g. through data back-ups, fault
+     diagnosis, regular examination of the results, emergency planning) in order to deal with a situation in
+     which the programme, either in whole or in part, does not work properly. It is the responsibility of the
+     user to ensure the functionality of the working environment of the programme.
+ .
+ § 7 Material defects
+ (1) The liability of JANITZA as towards the user for material defects in the software provided (including
+     the pertinent data carrier, in so far as available) shall be restricted to the case of JANITZA fraudulently
+     concealing from the user any material defect in the software. In such case, JANITZA shall reimburse
+     the user the damage arising therefrom in accordance with § 524 (1) German Civil Code (BGB).
+ (2) The user shall have no claim to have defects rectified by JANITZA in the case of software provided
+     free of charge
+ .
+ § 8 Flaws in legal title
+ (1) The liability of JANITZA as towards the user for flaws in the rights to the software provided
+     (including the pertinent data carrier, in so far as available) shall be restricted to the case of JANITZA
+     fraudulently concealing from the user any flaw in the rights to the software. In such case, JANITZA
+     shall reimburse the user the damage arising therefrom in accordance with § 523 (1) German Civil
+     Code (BGB).
+ (2) The user shall inform JANITZA in writing without delay if any third party asserts industrial property
+     rights (e.g. copyright or patent rights) against him in respect of the software. The user authorises
+     JANITZA to conduct the dispute with the third party alone. So long as JANITZA avails itself of this
+     authorisation, the user may not of his own initiative acknowledge the claims of the third party without
+     the consent of JANITZA; JANITZA shall then at its own expense avert the claims of the third party and
+     shall indemnify the user from all costs associated with averting such claims except in so far as these
+     result from conduct on the part of the user in breach of duty (e.g. use of the programmes in breach of
+     the terms of the contract).
+ .
+ § 9 Liability
+ (1) With the exception of liability for material defects and flaws in legal title (see above §§ 7, 8),
+     JANITZA shall only be liable in accordance with § 521 BGB in so far as the user asserts claims for
+     damages based on deliberate intent or gross negligence, including the deliberate intent or gross
+     negligence of representatives or vicarious agents of JANITZA.
+ (2) JANITZA shall be free in each case to raise the defence of contributory negligence. The user is, in
+     particular, under an obligation to prepare data back-ups and to protect his system from malicious
+     software in accordance with the latest state of technology.
+ .
+ § 13 Commencement and end of the rights of the user
+ (1) Ownership of the items provided and the rights pursuant to § 4 hereof shall pass to the user upon
+     the transfer of the same.
+ (2) JANITZA may revoke the rights under § 4 for compelling reasons. A compelling reason exists in
+     particular if JANITZA cannot be reasonably expected to continue to maintain the contract in force, in
+     particular where the user commits a significant breach of § 4.
+ (3) Should the rights under § 4 not come into existence or should they end, JANITZA may demand of
+     the user that he return the software provided or submit a written declaration that it has been destroyed,
+     as well as the deletion or destruction of all copies of the software and a written assurance that this has
+     taken place.
+ .
+ § 11 Confidentiality
+ (1) Each party to the contract undertakes, also beyond the end of the contract, to treat as confidential
+     all items provided to it by the respective other party or which have otherwise become known to it
+     before or during the performance of the contract (e.g. software, documents, information) and which are
+     legally protected or contain business or company secrets or are otherwise designated as being
+     confidential, unless such items are already in the public domain without any breach of the duty of
+     confidentiality. The parties shall store and secure these items in such a way as to ensure that no third
+     party has access to them.
+ (2) The user shall only make the objects of the contract accessible to those employees and other third
+     parties who require access to the same for the performance of their contractual duties. The user shall
+     instruct these persons regarding the necessity of maintaining confidentiality in relation to the items in
+     question.
+ (3) JANITZA shall process the necessary user data relevant for handling the business transaction in
+     due compliance with the data protection provisions. JANITZA may name the user as a reference user
+     following the successful conclusion of its services.
+ .
+ § 12 Final provisions
+ (1) Any amendments and supplements to the contract need to be made in writing in order to be
+     effective. The requirement of the written form may only be revoked in writing. Transmission in text
+     form, in particular by fax or e-mail, shall suffice to satisfy the requirement of the written form.
+ (2) These Terms and Conditions of Contract shall be governed by the law of the Federal Republic of
+     Germany to the exclusion of the UN Convention on Contracts for the International Sale of Goods.
+ (3) The user may only set off claims of his own against claims of JANITZA if such claims are
+     undisputed or have been judicially decided and are final and legally binding. Except as provided in §
+     354 a German Commercial Code [Handelsgesetzbuch] (HGB), the user may only assign claims under
+     this contract to third parties with the previous written consent of JANITZA. The user shall only be
+     entitled to exercise a right of withholding or to raise the defence of non-performance of the contract
+     within the scope of this contractual relationship.
+ (4) In the case of contracts with business persons, public legal entities or bodies of public assets the
+     place of performance and court venue for all disputes arising under and in connection with this
+     contract shall be the location of the head office of JANITZA.
+ (5) In the case of any inconsistencies between the German version of these Terms and Conditions of
+     Contract and any translations, the German version of these Terms and Conditions of Cantract is
+     binding.
+
+License: GPL-2+
+ On Debian systems, the complete text of the GNU General
+ Public License can be found in `/usr/share/common-licenses/GPL-2'.
+
+Files: *
+Copyright: (C) 2014 Janitza electronics GmbH <info@janitza.de>
+License: permissive
+ Copying and distribution of this package, with or without
+ modification, are permitted in any medium without royalty
+ provided the copyright notice and this notice are
+ preserved.
+
+Files: debian/*
+Copyright: (C) 2015 Carsten Schoenert <c.schoenert@t-online.de>
+License: GPL-2+

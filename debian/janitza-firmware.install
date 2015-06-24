@@ -1,0 +1,14 @@
+# source   ---->   direction
+prodata2*.zip var/lib/GridVisFirmware/prodata2
+umg103*.zip   var/lib/GridVisFirmware/umg103
+umg104*.zip   var/lib/GridVisFirmware/umg104
+umg20*.zip    var/lib/GridVisFirmware/umg20
+umg507*.zip   var/lib/GridVisFirmware/umg507
+umg508*.zip   var/lib/GridVisFirmware/umg508
+umg509*.zip   var/lib/GridVisFirmware/umg509
+umg510*.zip   var/lib/GridVisFirmware/umg510
+umg511*.zip   var/lib/GridVisFirmware/umg511
+umg512*.zip   var/lib/GridVisFirmware/umg512
+umg604*.zip   var/lib/GridVisFirmware/umg604
+umg605*.zip   var/lib/GridVisFirmware/umg605
+umg96*.zip    var/lib/GridVisFirmware/umg96

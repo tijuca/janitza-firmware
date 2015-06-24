@@ -1,0 +1,35 @@
+Importing new upstream versions
+###############################
+
+Janitza isn't providing automatically email notification if new versions of
+firmware files are uploaded to their website. So you have to lookup by
+yourself. :-(
+
+To import new versions take the current *.orig.tar.xz and extract the
+content a temporary directory, for example into ~/tmp/janitza-firmware/.
+
+Next download the new files and put them into the second temporary
+directory, but don't extract the zip files!
+Currently Janitza uses different type for the firmware files, some of them
+have upper case letters or a mix of upper and lower case letters. To finally
+import the various zip files later you have to rename them all so the file
+name only contains lower case. Simply use inside the directory the rename
+binary.
+
+  cd temporary_folder
+  rename 'y/A-Z/a-z/' *
+
+If finished copy all new files into the temporary folder there the extracted
+*.orig.tar.xz is placed. You shouldn't have to override existing files, new
+files will have new additional infos like higher release versions!
+
+Next create a new orig.tar.xz one directory above the extracted and new files,
+for the version use simple the date as Janitza didn't release the files with
+any kind of version control. For example if you create the new orig.tar.xz
+on the 13th of march 2015 the command line would look like this.
+
+  tar -Jcvf janitza-firmware_03132015.orig.tar.xz
+
+Finally you can import this file with git-import-orig.
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Sun, 08 Mar 2015 13:10:55 +0100
