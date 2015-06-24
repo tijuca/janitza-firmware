@@ -2,7 +2,6 @@ var/lib/GridVisFirmware/prodata2
 var/lib/GridVisFirmware/umg103
 var/lib/GridVisFirmware/umg104
 var/lib/GridVisFirmware/umg20
-var/lib/GridVisFirmware/umg507
 var/lib/GridVisFirmware/umg508
 var/lib/GridVisFirmware/umg509
 var/lib/GridVisFirmware/umg510
