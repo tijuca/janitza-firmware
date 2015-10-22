@@ -10,11 +10,11 @@ Package: janitza-firmware
 Architecture: all
 Depends: ${misc:Depends},
   gridvis-desktop
-Description: Firmware Update files for Janitza measurement devices This package
- contain firmware update files for the various measurement devices from Janitza
- which you can upload and program with the GridVis GUI.  It doesn't matter which
- kind of device you have to program (Modbus, Ethernet, serial), if it is
- reachable within the GridVis the GUI will know what to do.
+Description: Firmware Update files for Janitza measurement devices
+ This package contain firmware update files for the various measurement devices
+ from Janitza which you can upload and program with the GridVis GUI. It
+ doesn't matter which kind of device you have to program (Modbus, Ethernet,
+ serial), if it is reachable within the GridVis the GUI will know what to do.
  .
  The firmware files provided by this package supports the following devices
  and contains depended on the device updates for the device itself and if
