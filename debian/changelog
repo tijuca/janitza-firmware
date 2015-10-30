@@ -1,3 +1,12 @@
+janitza-firmware (20151030-1) unstable; urgency=medium
+
+  * [57fdab3] adding download helper
+  * [af8f33d] debian/control: fix short description
+  * [cf44c21] Imported Upstream version 20151030
+  * [7746d33] update download helper script
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Fri, 30 Oct 2015 19:07:51 +0100
+
 janitza-firmware (20150624-1) unstable; urgency=medium
 
   * [f6ff559] Imported Upstream version 20150624
