@@ -25,6 +25,15 @@ grep data-href |\
 awk '{print $6;}' |\
 tr '"' ' ' | cut -f 3 -d =`
 
+## getting upcomming releases (experimental)
+#FILE_LIST=\
+#`curl --silent -L  http://janitza.de/experiementelle-downloads.html |\
+#tr "<>" '\n' |\
+#grep "download/experimentell" |\
+#awk '{print $5;}' |\
+#tr '"' ' ' |\
+#cut -f 3 -d =`
+
 cd ${DOWNLOAD}
 
 for i in ${FILE_LIST}; do
@@ -46,7 +55,7 @@ while read LINE; do
         MD5SUM_ORIG=`md5sum ../../${FILE} | awk '{print $1;}'`
         # now comparing ...
         if [ "$MD5SUM" = "$MD5SUM_ORIG" ]; then
-				echo "Equal files, no further action needed (${FILE})."
+             echo "Equal files, no further action needed (${FILE})."
         else
              echo "File ${FILE} is different to original, copy to \${TOPDIR}."
              cp -f ${FILE} ../../
