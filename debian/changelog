@@ -1,3 +1,9 @@
+janitza-firmware (20160321-1) unstable; urgency=medium
+
+  * [1b8e2b2] Imported Upstream version 20160321
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Mon, 21 Mar 2016 07:35:28 +0100
+
 janitza-firmware (20151129-1) unstable; urgency=medium
 
   * [9d30fc9] Imported Upstream version 20151129
