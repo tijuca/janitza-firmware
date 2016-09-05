@@ -19,7 +19,7 @@ Description: Firmware Update files for Janitza measurement devices
  The firmware files provided by this package supports the following devices
  and contains depended on the device updates for the device itself and if
  the device is using a internal webserver you can update the website of the
- device as well. Please be carefull if you using a modified website, the
+ device as well. Please be careful if you using a modified website, the
  GridVis GUI will override your changes if you enable the update for the
  website!
  .
