@@ -1,3 +1,11 @@
+janitza-firmware (20160903-1) unstable; urgency=medium
+
+  * [0a8bd46] Imported Upstream version 20160903
+  * [edb8090] increase Standards-Version to 3.9.8
+  * [2997b88] debian/control: fix small typo
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Mon, 05 Sep 2016 15:31:40 +0200
+
 janitza-firmware (20160611-1) unstable; urgency=medium
 
   * [8687820] Imported Upstream version 20160611
