@@ -2,7 +2,9 @@ Source: janitza-firmware
 Section: net
 Priority: optional
 Maintainer: Carsten Schoenert <c.schoenert@t-online.de>
-Build-Depends: debhelper (>= 9.0.0)
+Build-Depends:
+ debhelper (>= 9.0.0),
+ rename,
 Standards-Version: 3.9.8
 Homepage: http://www.janitza.de/firmware.html
 
