@@ -1,3 +1,10 @@
+janitza-firmware (20170206-1) unstable; urgency=medium
+
+  * [47fa473] Imported Upstream version 20170206
+  * [232ffdc] debian/control: adding B-D on rename
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Mon, 06 Feb 2017 13:52:49 +0100
+
 janitza-firmware (20160903-1) unstable; urgency=medium
 
   * [0a8bd46] Imported Upstream version 20160903
