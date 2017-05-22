@@ -22,7 +22,7 @@ FILE_LIST=\
 `curl --silent -L  http://janitza.de/firmware-download.html |\
 tr "<>" '\n' |\
 grep data-href |\
-awk '{print $6;}' |\
+awk '{print $5;}' |\
 tr '"' ' ' | cut -f 3 -d =`
 
 ## getting upcomming releases (experimental)
