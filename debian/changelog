@@ -1,3 +1,10 @@
+janitza-firmware (20170522-1) unstable; urgency=medium
+
+  * [b5e11a9] Imported Upstream version 20170522
+  * [53a078d] update helper file due new website layout
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Mon, 22 May 2017 22:06:38 +0200
+
 janitza-firmware (20170206-1) unstable; urgency=medium
 
   * [47fa473] Imported Upstream version 20170206
