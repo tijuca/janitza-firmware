@@ -19,7 +19,7 @@ else
 fi
 
 FILE_LIST=\
-`curl --silent -L  http://janitza.de/firmware-download.html |\
+`curl --silent -L  https://www.janitza.de/firmware-download.html |\
 tr "<>" '\n' |\
 grep data-href |\
 awk '{print $5;}' |\
@@ -38,7 +38,7 @@ cd ${DOWNLOAD}
 
 for i in ${FILE_LIST}; do
     echo "downloading --> ${i##*/}"
-    wget -nv http://janitza.de/$i
+    wget -nv https://janitza.de/$i
     echo
 done
 
