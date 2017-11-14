@@ -1,3 +1,11 @@
+janitza-firmware (20171114-1) unstable; urgency=medium
+
+  * [80da578] use https for downloads
+  * [9c1b781] Imported Upstream version 20171114
+  * [9edb05e] debian/control: update S-V and Homepage
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Tue, 14 Nov 2017 18:57:23 +0100
+
 janitza-firmware (20170522-1) unstable; urgency=medium
 
   * [b5e11a9] Imported Upstream version 20170522
