@@ -5,8 +5,8 @@ Maintainer: Carsten Schoenert <c.schoenert@t-online.de>
 Build-Depends:
  debhelper (>= 9.0.0),
  rename,
-Standards-Version: 3.9.8
-Homepage: http://www.janitza.de/firmware.html
+Standards-Version: 4.1.1
+Homepage: https://www.janitza.de/firmware-download.html
 
 Package: janitza-firmware
 Architecture: all
