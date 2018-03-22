@@ -1,3 +1,10 @@
+janitza-firmware (20180233-1) unstable; urgency=medium
+
+  * [88dba50] Imported Upstream version 20180322
+  * [a49c8aa] debian/control: increase Standards-Version to 4.1.3
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Thu, 22 Mar 2018 14:50:51 +0100
+
 janitza-firmware (20171114-1) unstable; urgency=medium
 
   * [80da578] use https for downloads
